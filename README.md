@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate developer with a keen interest in DevOps and microservices. I specialize in Java and its ecosystem, particularly with Spring Boot and its libraries. Additionally, I have a strong background in web development using the MERN stack and proficiency in both relational and non-relational databases.
+I am a passionate developer with a strong interest in DevOps and cloud technologies. I specialize in Java and its ecosystem, particularly with Spring Boot and its libraries. Additionally, I have a solid background in web development using the MERN stack and am proficient in both relational and non-relational databases. My enthusiasm for DevOps practices is fueled by hands-on experience with tools like Docker and Kubernetes, and I am continually exploring the latest innovations in cloud platforms, especially AWS and Oracle Cloud Infrastructure (OCI).
 
 ## 🚀 Skills
 
