@@ -1,4 +1,4 @@
-# Hi there, I'm BEK-ISSAM 👋
+# Hi there, I'm BEKKARI ISSAM 👋
 
 ## About Me
 
