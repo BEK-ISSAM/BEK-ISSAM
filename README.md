@@ -31,6 +31,9 @@ I am a passionate developer with a strong interest in DevOps and cloud technolog
   - Currently learning AWS Cloud
 - **Other Skills:**
   - API Testing
+  - Unit Testing (JUnit, Mockito)
+  - Clean Code & SOLID principles
+  - Design Patterns
 
 ## 📫 How to Reach Me
 
