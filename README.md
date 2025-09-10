@@ -9,28 +9,36 @@ I am a passionate developer with a strong interest in DevOps and cloud technolog
 - **Programming Languages:**
   - Java
   - Python
-  - JavaScript (React, Node.js)
+  - JavaScript
 - **Frameworks and Libraries:**
-  - Spring Boot
+  - Spring / Spring Boot
   - React
   - Express
   - Django
+  - Oracle JET (`JavaScript Extension Toolkit`)
 - **Web Development:**
   - HTML
   - CSS
   - RESTful APIs
 - **Databases:**
-  - Relational: MySQL, PostgreSQL
+  - Relational: MySQL, PostgreSQL, SQL Server
   - Non-Relational: MongoDB
+- Build Tools:
+  - Maven
+  - Gradle
 - **DevOps Tools:**
-  - Docker
-  - Kubernetes
+  - Docker (+ Compose)
   - Jenkins
+- **Low Code Tools:**
+  - Oracle Visual Builder Studio (`VBS`)
 - **Cloud Platforms:**
   - Oracle Cloud Infrastructure (OCI)
-  - Currently learning AWS Cloud
+  - Currently learning AWS
+- **Design Systems:**
+  - Oracle Redwood
 - **Other Skills:**
   - API Testing
+  - API Integration
   - Unit Testing (JUnit, Mockito)
   - Clean Code & SOLID principles
   - Design Patterns
